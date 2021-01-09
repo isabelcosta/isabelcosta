@@ -1,8 +1,8 @@
 ## Olá 👋🏾
 
-I am Isabel Costa, a Software Engineer from Portugal 🇵🇹
+I am Isabel Costa, a Software Engineer from Portugal 🇵🇹 working at [@globality-corp](https://github.com/globality-corp) in London, UK.
 
-I'm an admin at [AnitaB.org Open Source](https://github.com/anitab-org) and Community Leader at AnitaB.org London. I maintain mentorship system projects at [@anitab-org](https://github.com/anitab-org)
+I'm an admin at [AnitaB.org Open Source](https://github.com/anitab-org) and a [@CodingBlackFemales](https://github.com/CodingBlackFemales) mentor at [Black CodHer](https://blackcodher.com/) bootcamp. I maintain mentorship system projects at [@anitab-org](https://github.com/anitab-org). Previously, I was Community Leader at AnitaB.org London, Google Summer of Code student in 2018 and admin/mentor in 2020 and Google Code-in mentor in 2019.
 
 [✍🏾 Blog](https://isabelcosta.github.io/posts) / [🎙️ Talks](https://isabelcosta.github.io/talks) / [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta) / [Twitter](https://twitter.com/isabelcmdcosta) / [👐🏾 Volunteer work](https://isabelcosta.github.io/work/#heading-volunteer-work)
 
