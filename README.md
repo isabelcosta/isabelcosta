@@ -6,7 +6,7 @@ I mentor at both [Black CodHer](https://blackcodher.com/) bootcamp and [As Rapar
 
 I am also a [GitHub Star](https://stars.github.com/profiles/isabelcosta/) 🌟 !
 
-[✍🏾 Blog](https://isabelcosta.github.io/posts) / [🎙️ Talks](https://isabelcosta.github.io/talks) / [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta) / [Twitter](https://twitter.com/isabelcmdcosta) / [👐🏾 Volunteer work](https://isabelcosta.github.io/work/#heading-volunteer-work)
+[✍🏾 Blog](https://isabelcosta.github.io/posts) / [🎙️ Talks](https://isabelcosta.github.io/talks) / [LinkedIn](https://www.linkedin.com/in/isabelcmdcosta) / [Twitter](https://twitter.com/isabelcmdcosta) / [👐🏾 Volunteer work](https://isabelcosta.github.io/posts/my-volunteering)
 
 - 💬 Ask me about Open Source
 - 😄 Pronouns: She/Her
